@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-newsdddf
-=======
-new filr createdgit
->>>>>>> gitbranch1
